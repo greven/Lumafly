@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Include file="oUF\oUF.xml" />
+  <Script file="LibButtonGlow-1.0\LibButtonGlow-1.0.lua"/>
+  <Script file="LibActionButton-1.0\LibActionButton-1.0.lua"/>
+</Ui>

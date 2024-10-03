@@ -1,0 +1,10 @@
+## Interface: 110000, 110002
+## Author: greven
+## Version: 1.0.0
+## Title: Lumafly
+## Notes: WoW UI by Kreoss @ Quel'Thalas EU
+## SavedVariables: LUMAFLY_GLOBAL_CONFIG
+## X-Category: UnitFrame
+## X-Website: https://github.com/greven/Lumafly
+
+_load.xml
